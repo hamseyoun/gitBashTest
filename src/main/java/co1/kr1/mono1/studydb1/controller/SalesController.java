@@ -25,6 +25,9 @@ public class SalesController {
 	///asdasdsadsad
 	
 //	18:11 
+	
+	
+	//seyoun 2023-01-28 18:32
     @Autowired
     SaleService saleService;
 
