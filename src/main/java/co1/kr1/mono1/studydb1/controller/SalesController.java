@@ -21,7 +21,6 @@ public class SalesController {
 	
 	///////////////////asdasd
 	/////////////sadsadsasa
-	//sumin
     @Autowired
     SaleService saleService;
 
