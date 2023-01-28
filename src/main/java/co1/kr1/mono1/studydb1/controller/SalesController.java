@@ -26,6 +26,8 @@ public class SalesController {
 	
 //	18:11 
 	// 18:30
+	
+	//자 이제 seyoun commit 입니다
     @Autowired
     SaleService saleService;
 
