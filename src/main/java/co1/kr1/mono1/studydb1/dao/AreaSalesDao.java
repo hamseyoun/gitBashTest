@@ -8,7 +8,7 @@ import java.util.Map;
 
 @Mapper
 public interface AreaSalesDao {
-
+////sdljfdlskfdlkssdkljj
     //메서드 시그니처: 접근제어자(public) + 리턴타입 + 메서드명 + 매개변수
 
     //1.
