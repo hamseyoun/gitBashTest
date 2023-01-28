@@ -22,6 +22,7 @@ public class SalesController {
 	///////////////////asdasd
 	/////////////sadsadsasa
 	//asdsadsadasdsad
+	///asdasdsadsad
     @Autowired
     SaleService saleService;
 
